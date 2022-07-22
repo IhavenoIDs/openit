@@ -319,3 +319,4 @@ Clash.yaml 使用的路由规则在 [➡️ 此处](https://raw.githubuserconten
 [^1]: https://www.bandisoft.com/bandizip/dl.php?std-all
 [^2]: https://www.theunarchiver.com/
 [^3]: https://play.google.com/store/apps/
+<!--感谢观看和使用，祝您使用愉快-->
